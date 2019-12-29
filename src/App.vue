@@ -29,16 +29,18 @@ Farm To Table
     </v-app-bar>
 
     <v-content>
+      <products/>
     </v-content>
   </v-app>
 </template>
 
 <script>
-
+import products from './components/products'
 export default {
   name: 'App',
 
   components: {
+    products
   },
 
   data: () => ({

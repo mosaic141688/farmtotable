@@ -14,7 +14,7 @@
           transition="scale-transition"
           width="100"
         />
-Farm To Table
+Farm To Table v1.0.0
       </div>
 
       <v-spacer></v-spacer>
